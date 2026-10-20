@@ -32,3 +32,7 @@ Change `iterations`, `a` and `b` at the bottom of `main.py` to benchmark differe
 
 These are software models for learning and comparison, not cycle-accurate emulators of the real chips.
 
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
